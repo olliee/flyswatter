@@ -12,23 +12,21 @@ Fly Swatter was developed by Ollie Handford and is licenced under MIT Licence.
 
 ==========
 
-The MIT License (MIT)
 
-Copyright (c) 2014 Ollie Handford
+Setup!
+==========
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
+For Fly Swatter to work you have to have 
+- <b>Python 3</b>
+- <b>pygame for Python 3</b>
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+All you have to do Is Start the main.py!
+
+Developers
+----------
+
+The main setup of the game is in main.py and the processes are in process.py, the classes are in class.py,
+this is to keep everything understandable and easy to read.
+
+
